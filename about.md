@@ -3,7 +3,4 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
-
+So this site is a work in progress. Eventually I hope to put an about me on this page, but for now it's just a testing page to make sure my edits are working. This most recent one was being able to work from both Windows and Linux.
